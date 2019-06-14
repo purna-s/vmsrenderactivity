@@ -3,7 +3,7 @@ title: vmsrenderactivity
 ---
 
 # vmsrenderactivity
-This activity allows RenderVMS Json using VMS schema in XMLParserActivity code
+This activity allows to Render VMS Json using defined VMS schema
 
 ## Installation
 ### Flogo CLI
